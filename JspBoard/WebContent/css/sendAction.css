@@ -1,0 +1,13 @@
+.box{
+	border: 1px solid #D5D5D5;
+	width: 40%;
+	font-size: 1.1rem;
+	padding-left: 1rem;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+	line-height: 2rem;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}

@@ -1,0 +1,41 @@
+.title{
+	padding-bottom: 2rem;
+	border-bottom: 1px solid #dedddf;
+}
+
+.board_wrapper{
+	padding-top: 0.1rem;
+}
+.board_title{
+	margin-top: 1.5rem;
+	border-bottom: 1px solid #dedddf;
+	padding-bottom: 1rem;
+	font-size: 1.6rem;
+}
+.board_sub{
+	margin-top: 1rem;
+	font-size: 0.9rem;
+}
+.board_sub span{
+	margin-right: 1rem;
+}
+.board_content{
+	margin-top: 1.3rem;
+	font-size: 1.15rem;
+}
+
+.subArea{
+	margin-top: 2.5rem;
+}
+.sub_button{
+	text-align: right;
+}
+.button{
+	background-color: rgb(171,215,224);
+	padding-top: 0.7rem;
+	padding-bottom: 0.7rem;
+	padding-left: 1rem;
+	padding-right: 1rem;
+	margin-left: 1rem;
+	color: white;
+}

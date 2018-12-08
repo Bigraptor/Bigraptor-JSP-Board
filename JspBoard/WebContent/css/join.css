@@ -1,0 +1,56 @@
+body{
+	margin: 0;
+}
+a{
+	color: black;
+	text-decoration: none;
+}
+
+#header{
+	height: 30rem;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+.header-logo{
+}
+.header-title{
+	width: 100%;
+	text-align: center;
+	font-family: 'Kumar One Outline', cursive;
+	font-size: 4rem;
+}
+#container{
+	display: flex;
+	justify-content: center;
+}
+
+.container-body{
+	padding-left: 1rem;
+	width: 40%;
+}
+.form-id{
+	font-size: 1.5rem;
+}
+.form-form{
+	width: 95%;
+	margin-top: 0.5rem;
+	margin-bottom: 1rem;
+	height: 2rem;
+}
+.button{
+	margin-top: 1.5rem;
+	margin-bottom: 3rem;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+	width: 96%;
+	font-size: 2rem;
+	background-color: #A0D9E2;
+	font-weight: 900;
+	cursor: pointer;
+	border-radius: 3%;
+}
+.button:hover{
+	color: white;
+}
